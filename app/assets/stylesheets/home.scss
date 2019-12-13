@@ -26,9 +26,11 @@ $yellow: #FAF33E;
 .barly-main-wrap {
   background-color: $yellow;
   padding: 15px;
-  border-radius: 15px;
+  // border-radius: 15px;
+  width: 100vw;
 
 }
+
 
 .barly-sides {
   display: flex;
@@ -44,9 +46,9 @@ $yellow: #FAF33E;
 
 .barly-wrap {
   display: flex;
-
   justify-content: center;
   align-items: center;
+
 }
 
 .gif {
@@ -56,9 +58,9 @@ $yellow: #FAF33E;
 }
 .gif-dash {
   margin: 10px;
-
-
 }
+
+
 
 body {
   background-color: $blue;
